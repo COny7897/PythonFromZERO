@@ -1,0 +1,2 @@
+# PythonFromZERO
+เรียน python กับลุง
