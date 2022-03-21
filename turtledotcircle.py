@@ -13,7 +13,6 @@ def dot():
 dot()
 tao.rt(90)
 dot()
-tao.
 tao.rt(90)
 dot()
 tao.rt(90)
